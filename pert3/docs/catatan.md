@@ -349,3 +349,6 @@ Route::get('/',ShowHomePage::class)->name('home');
 ```html
 <li class="nav-item"> <a wire:navigate class="nav-link" href="{{ route ('home') }}">Home</a></li>
 ```
+
+# Struktur folder
+
